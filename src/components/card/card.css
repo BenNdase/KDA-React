@@ -1,0 +1,31 @@
+.card{
+    border: 2px solid cornflowerblue;
+    background-color: rgb(17, 80, 197);
+    margin: 1.5% auto;
+    padding: 1%;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 18px 26px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    height: 150px;
+    overflow: auto;
+}
+.img-cercle{
+    width: 150px;
+    border-radius: 50%;
+}
+.biography{
+    padding: 1%;
+}
+.btn{
+    width: 30px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    
+}
